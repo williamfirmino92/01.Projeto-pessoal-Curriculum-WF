@@ -30,10 +30,8 @@ Utilizei como base ums dos projetos que realizei na plataforma ORIGAMID, no curs
 
 📌 Link do projeto no github Pages: https://williamfirmino92.github.io/Projeto-pessoal/
  
-## ✒️ Autor
 
 
-
-
+---
 ⌨️ com ❤️ por William Firmino 😊
 
