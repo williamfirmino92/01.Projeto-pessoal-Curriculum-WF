@@ -9,6 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 
 ### 📋 Tecnologias utilizadas
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,7 +17,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 </div>
 
 
-No projeto, utilizei HTML5 de forma semântica, CSS3 além, do Javascript para dar dinamismo na página.
+🛠️No projeto, utilizei HTML5 de forma semântica, CSS3 além, do Javascript para dar dinamismo na página.
 
 
 ## 📦 Desenvolvimento
