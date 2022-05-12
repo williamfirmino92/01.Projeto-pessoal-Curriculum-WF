@@ -1,6 +1,6 @@
-# Título do projeto
+# Projeto Pessoal
 
-Um parágrafo da descrição do projeto vai aqui
+Nesse projeto, apresento o meu curriculum atualizado com as informações que julgo mais importantes.
 
 ## 🚀 Começando
 
