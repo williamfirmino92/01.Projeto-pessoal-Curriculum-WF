@@ -7,7 +7,6 @@ Nesse projeto, apresento o meu curriculum atualizado constantemente com as infor
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-
 ### 📋 Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
@@ -15,7 +14,6 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
 
 🛠️No projeto, utilizei HTML5 de forma semântica, CSS3 além, do Javascript para dar dinamismo na página.
 
